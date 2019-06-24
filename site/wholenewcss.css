@@ -1,0 +1,15 @@
+.firstdiv{
+	font-size: 28px;
+	color: white;
+	background-color: orange;
+	padding: 10px;
+	text-align: center;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-color: yellow;
+}
